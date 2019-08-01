@@ -42,6 +42,9 @@ This is a PowerPoint Add-in that makes image recommendations based on slide titl
 * Clone file from https://github.com/cjbreaux/pptslide.git
 * Navigate to the cloned folder 
 * While in the project folder, run PowerPointWebAddIn2.sln with Visual Studio
+* Restore NuGet packages
+* Start solution
+* Click on Start Taskpanel
 
 ### License
 
