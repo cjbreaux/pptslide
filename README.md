@@ -44,7 +44,7 @@ This is a PowerPoint Add-in that makes image recommendations based on slide titl
 * While in the project folder, run PowerPointWebAddIn2.sln with Visual Studio
 * Restore NuGet packages
 * Start solution
-* Click on Start Taskpanel
+* Solution opens a new PowerPoint presentation, click on Show Taskpanel in PowerPoint.
 
 ### License
 
