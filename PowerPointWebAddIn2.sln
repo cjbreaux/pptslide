@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPointWebAddIn2", "PowerPointWebAddIn2\PowerPointWebAddIn2.csproj", "{B4FE4832-F73E-4CE2-A760-59E6C7ACB5B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPointWebAddIn2Web", "PowerPointWebAddIn2Web\PowerPointWebAddIn2Web.csproj", "{A410A01F-976C-4917-ADF6-93EC0CEAE01B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4FE4832-F73E-4CE2-A760-59E6C7ACB5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4FE4832-F73E-4CE2-A760-59E6C7ACB5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4FE4832-F73E-4CE2-A760-59E6C7ACB5B4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B4FE4832-F73E-4CE2-A760-59E6C7ACB5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4FE4832-F73E-4CE2-A760-59E6C7ACB5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4FE4832-F73E-4CE2-A760-59E6C7ACB5B4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A410A01F-976C-4917-ADF6-93EC0CEAE01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A410A01F-976C-4917-ADF6-93EC0CEAE01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A410A01F-976C-4917-ADF6-93EC0CEAE01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A410A01F-976C-4917-ADF6-93EC0CEAE01B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {064026B3-D098-4C17-BB70-B1EAF6457C44}
+	EndGlobalSection
+EndGlobal
